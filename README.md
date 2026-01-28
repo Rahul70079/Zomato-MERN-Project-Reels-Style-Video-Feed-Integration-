@@ -74,7 +74,8 @@ This project showcases real-world full-stack development, JWT authentication, ro
 
 │   └── server.js
 │
-├── frontend/
+         
+      frontend
 │   ├── src/
 
 │   ├── components/

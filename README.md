@@ -59,9 +59,7 @@ This project showcases real-world full-stack development, JWT authentication, ro
 ## 📂 Project Structure
 
     zomato-mern-reels/
-│
-├── backend/
-
+     backend
 │   ├── controllers/
 
 │   ├── models/
